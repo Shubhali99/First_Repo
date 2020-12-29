@@ -42,6 +42,9 @@ System.out.println(" Anagram");
 System.out.println("Understood");
 System.out.println("Understood");
 System.out.println("Understood");
+<<<<<<< HEAD
 System.out.println("Understood");
+=======
+>>>>>>> depth
 }
 }
